@@ -1,0 +1,7 @@
+{
+    "archives": null,
+    "files": [
+        "debug_keybindings/debug_keybindings.res.lua",
+        "debug_keybindings/debug_keybindings.script.lua"
+    ]
+}

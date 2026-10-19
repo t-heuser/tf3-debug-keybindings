@@ -1,0 +1,15 @@
+{
+    "authors": [
+        {
+            "name": "Timen4ever",
+            "role": "CREATOR"
+        }
+    ],
+    "description": "Lists the game's debug actions (debug window, reload shaders, show bounding boxes, ...) in Settings > Key Bindings, under \"Game\", so they can be rebound like any other action. Useful where the default AltGr/Right Alt combinations do not reach the game, e.g. under Proton/Wine.\n\nOpen the settings from the in-game pause menu. New bindings are saved with the game's settings and stay when the mod is removed. Debug mode must be enabled in the advanced settings for the actions to work.",
+    "name": "Debug Key Bindings",
+    "summary": "Makes the debug actions rebindable in the key binding settings.",
+    "tags": [
+        "Script Mod"
+    ],
+    "url": ""
+}
